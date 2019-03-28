@@ -1,0 +1,90 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/selecione"
+        android:id="@+id/selectBox"
+        />
+
+    <RadioGroup
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioTimes">
+
+
+        <RadioButton
+            style="@style/FIAPRadioButton"
+            android:text="@string/atleticomg"
+            android:id="@+id/atletico"
+            />
+
+        <RadioButton
+            style="@style/FIAPRadioButton"
+            android:text="@string/barcelona"
+            android:id="@+id/barca"
+            />
+
+        <RadioButton
+            style="@style/FIAPRadioButton"
+            android:text="@string/criciuma"
+            android:id="@+id/crici"
+            />
+
+        <RadioButton
+            style="@style/FIAPRadioButton"
+            android:text="@string/deportivolacoruna"
+            android:id="@+id/deportivo"/>
+
+        <RadioButton
+            style="@style/FIAPRadioButton"
+            android:text="@string/arsenal"
+            android:id="@+id/arsenal"
+            />
+
+        <RadioButton
+            style="@style/FIAPRadioButton"
+            android:text="@string/gremio"
+            android:id="@+id/gremio"
+            />
+
+        <RadioButton
+            style="@style/FIAPRadioButton"
+            android:text="@string/saopaulo"
+            android:id="@+id/sp"
+            />
+
+        <RadioButton
+            style="@style/FIAPRadioButton"
+            android:text="@string/realmadrid"
+            android:id="@+id/real"/>
+
+
+
+
+
+
+
+
+    </RadioGroup>
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Salvar"
+        android:text="@string/Salvar"
+        android:onClick="salvar"/>
+
+
+
+
+
+</LinearLayout>

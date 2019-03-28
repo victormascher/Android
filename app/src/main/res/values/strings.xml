@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Componentes Parte 2</string>
+    <string name="selecione">Selecione</string>
+    <string name="Salvar">Salvar</string>
+    <string name="checkboxselect">CheckBox selecionado!</string>
+    <string name="atleticomg">AtléticoMG</string>
+    <string name="bahia">Bahia</string>
+    <string name="criciuma">Criciúma</string>
+    <string name="barcelona">Barcelona</string>
+    <string name="saopaulo">São Paulo</string>
+    <string name="gremio">Grêmio</string>
+    <string name="realmadrid">Real Madrid</string>
+    <string name="deportivolacoruna">Deportivo la Coruña</string>
+    <string name="arsenal">Arsenal</string>
+</resources>
