@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicFragment</string>
+    <string name="banner1">Banner1</string>
+    <string name="banner2">Banner2</string>
+</resources>
